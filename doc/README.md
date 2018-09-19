@@ -9,7 +9,7 @@
 
 * Please install mandatory packages before running: 
 
-* install.packages("tidyverse", "tidytext", "DT", "scales", "gridExtra", "wordcloud", "tidyr", "ngram", "stringr", "broom", "rworldmap","topicmodels", "stringi")
+* install.packages(c("tidyverse", "tidytext", "DT", "scales", "gridExtra", "wordcloud", "tidyr", "ngram", "stringr", "broom", "rworldmap","topicmodels", "stringi"))
 
 
 The doc directory contains the report or presentation files. It can have subfolders.  
