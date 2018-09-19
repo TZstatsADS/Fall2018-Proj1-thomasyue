@@ -5,7 +5,7 @@
 * by following the instruction, we need to run Text_mining.md and HappyDB_RShiny.md first to produce a new read only csv file called processed_moments.csv (../output)
 
 ## step 2
-* For individual project, please doanload Yang_project1 to run.
+* For individual project, please doanload Yang_project1.Rmd to run.
 
 * Please install mandatory packages before running: 
 
