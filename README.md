@@ -1,18 +1,21 @@
-# Applied Data Science @ Columbia
-## Fall 2018
+# Applied Data Science @ Columbia Fall 2018
 ## Project 1: What made you happy today?
+## Are people from different countries happy for different things?
 
-![image](figs/title.jpeg)
+![image](figs/What-makes-you-happy.jpg)
 
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) this semester. 
 
 Term: Fall 2018
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Are people from different countries happy for different things?
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ This project is conducted by Yang Yue
+
++ Project summary: This project will mainly focusing on analyzing what are the reasons make people from different countries around the world happy. the project runs sentiment analysis and show which countries are happier comparing to the rest. By separating countries to 3 different groups based on countries' financial background, the project runs another LDA test to see if there is any common topics between these 3 groups.
+
++ HTML version is in /doc folder!
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
